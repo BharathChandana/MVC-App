@@ -7,11 +7,7 @@
       "RelativeMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|e:\\mvc\\webapplication1\\webapplication1\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|e:\\mvc\\webapplication1\\webapplication1\\dal\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|E:\\MVC\\WebApplication1\\webapplication1\\dal\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dal\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -19,19 +15,23 @@
       "RelativeMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|e:\\mvc\\webapplication1\\webapplication1\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|E:\\MVC\\WebApplication1\\webapplication1\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|E:\\MVC\\WebApplication1\\webapplication1\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|e:\\mvc\\webapplication1\\webapplication1\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|E:\\MVC\\WebApplication1\\webapplication1\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|e:\\mvc\\webapplication1\\webapplication1\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|E:\\MVC\\WebApplication1\\webapplication1\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|e:\\mvc\\webapplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|E:\\MVC\\WebApplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -54,8 +54,7 @@
               "RelativeToolTip": "WebApplication1\\Views\\Employee\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-25T06:34:48.02Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T06:34:48.02Z"
             },
             {
               "$type": "Document",
@@ -67,8 +66,7 @@
               "RelativeToolTip": "WebApplication1\\Views\\Employee\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-25T06:10:16.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T06:10:16.394Z"
             },
             {
               "$type": "Document",
@@ -80,8 +78,7 @@
               "RelativeToolTip": "WebApplication1\\Views\\Employee\\Create.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-25T05:59:15.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T05:59:15.256Z"
             },
             {
               "$type": "Document",
@@ -93,12 +90,11 @@
               "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-25T05:44:40.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T05:44:40.047Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\MVC\\WebApplication1\\WebApplication1\\Views\\Employee\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Employee\\Index.cshtml",
@@ -106,8 +102,7 @@
               "RelativeToolTip": "WebApplication1\\Views\\Employee\\Index.cshtml",
               "ViewState": "AgIAABwAAACA//////8gwC0AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-25T05:40:03.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T05:40:03.577Z"
             },
             {
               "$type": "Document",
@@ -117,14 +112,14 @@
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\EmployeeController.cs",
               "ToolTip": "E:\\MVC\\WebApplication1\\WebApplication1\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAACAKDMzMzP7vzcAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-25T05:36:37.886Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "EmployeeContext.cs",
               "DocumentMoniker": "E:\\MVC\\WebApplication1\\WebApplication1\\DAL\\EmployeeContext.cs",
               "RelativeDocumentMoniker": "WebApplication1\\DAL\\EmployeeContext.cs",
@@ -137,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Employee.cs",
               "DocumentMoniker": "E:\\MVC\\WebApplication1\\WebApplication1\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\Employee.cs",

@@ -1,38 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\MVC\\WebApplication1\\",
+  "WorkspaceRootPath": "D:\\GitHub\\MVC-App\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|e:\\mvc\\webapplication1\\webapplication1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|E:\\MVC\\WebApplication1\\webapplication1\\dal\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dal\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|E:\\MVC\\WebApplication1\\webapplication1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|E:\\MVC\\WebApplication1\\webapplication1\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|E:\\MVC\\WebApplication1\\webapplication1\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|D:\\GitHub\\MVC-App\\WebApplication1\\webapplication1\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|E:\\MVC\\WebApplication1\\webapplication1\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|D:\\GitHub\\MVC-App\\WebApplication1\\webapplication1\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|E:\\MVC\\WebApplication1\\webapplication1\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|D:\\GitHub\\MVC-App\\WebApplication1\\webapplication1\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|E:\\MVC\\WebApplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|D:\\GitHub\\MVC-App\\WebApplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|D:\\GitHub\\MVC-App\\WebApplication1\\webapplication1\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|d:\\github\\mvc-app\\webapplication1\\webapplication1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|D:\\GitHub\\MVC-App\\WebApplication1\\webapplication1\\dal\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dal\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|D:\\GitHub\\MVC-App\\WebApplication1\\webapplication1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D566C5-FF40-4B9D-B1E8-173578F48EA4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,88 +42,93 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "E:\\MVC\\WebApplication1\\WebApplication1\\Views\\Employee\\Details.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\MVC-App\\WebApplication1\\WebApplication1\\Views\\Employee\\Details.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Employee\\Details.cshtml",
-              "ToolTip": "E:\\MVC\\WebApplication1\\WebApplication1\\Views\\Employee\\Details.cshtml",
+              "ToolTip": "D:\\GitHub\\MVC-App\\WebApplication1\\WebApplication1\\Views\\Employee\\Details.cshtml",
               "RelativeToolTip": "WebApplication1\\Views\\Employee\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-25T06:34:48.02Z"
+              "WhenOpened": "2024-10-25T06:34:48.02Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "E:\\MVC\\WebApplication1\\WebApplication1\\Views\\Employee\\Edit.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\MVC-App\\WebApplication1\\WebApplication1\\Views\\Employee\\Edit.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Employee\\Edit.cshtml",
-              "ToolTip": "E:\\MVC\\WebApplication1\\WebApplication1\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "D:\\GitHub\\MVC-App\\WebApplication1\\WebApplication1\\Views\\Employee\\Edit.cshtml",
               "RelativeToolTip": "WebApplication1\\Views\\Employee\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-25T06:10:16.394Z"
+              "WhenOpened": "2024-10-25T06:10:16.394Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\MVC\\WebApplication1\\WebApplication1\\Views\\Employee\\Create.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\MVC-App\\WebApplication1\\WebApplication1\\Views\\Employee\\Create.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Employee\\Create.cshtml",
-              "ToolTip": "E:\\MVC\\WebApplication1\\WebApplication1\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "D:\\GitHub\\MVC-App\\WebApplication1\\WebApplication1\\Views\\Employee\\Create.cshtml",
               "RelativeToolTip": "WebApplication1\\Views\\Employee\\Create.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-25T05:59:15.256Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\MVC\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\MVC\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-25T05:44:40.047Z"
+              "WhenOpened": "2024-10-25T05:59:15.256Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\MVC\\WebApplication1\\WebApplication1\\Views\\Employee\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Employee\\Index.cshtml",
-              "ToolTip": "E:\\MVC\\WebApplication1\\WebApplication1\\Views\\Employee\\Index.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Employee\\Index.cshtml",
-              "ViewState": "AgIAABwAAACA//////8gwC0AAAA3AAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\MVC-App\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\GitHub\\MVC-App\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-25T05:40:03.577Z"
+              "WhenOpened": "2024-10-25T05:44:40.047Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\MVC-App\\WebApplication1\\WebApplication1\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\GitHub\\MVC-App\\WebApplication1\\WebApplication1\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAABMAAACA//////8gwC0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T05:40:03.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "EmployeeController.cs",
-              "DocumentMoniker": "E:\\MVC\\WebApplication1\\WebApplication1\\Controllers\\EmployeeController.cs",
+              "DocumentMoniker": "D:\\GitHub\\MVC-App\\WebApplication1\\WebApplication1\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\EmployeeController.cs",
-              "ToolTip": "E:\\MVC\\WebApplication1\\WebApplication1\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\GitHub\\MVC-App\\WebApplication1\\WebApplication1\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAAUAAACAKDMzMzP7vzcAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAZWZmZmYpwDcAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-25T05:36:37.886Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "EmployeeContext.cs",
-              "DocumentMoniker": "E:\\MVC\\WebApplication1\\WebApplication1\\DAL\\EmployeeContext.cs",
+              "DocumentMoniker": "D:\\GitHub\\MVC-App\\WebApplication1\\WebApplication1\\DAL\\EmployeeContext.cs",
               "RelativeDocumentMoniker": "WebApplication1\\DAL\\EmployeeContext.cs",
-              "ToolTip": "E:\\MVC\\WebApplication1\\WebApplication1\\DAL\\EmployeeContext.cs",
+              "ToolTip": "D:\\GitHub\\MVC-App\\WebApplication1\\WebApplication1\\DAL\\EmployeeContext.cs",
               "RelativeToolTip": "WebApplication1\\DAL\\EmployeeContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -132,13 +137,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Employee.cs",
-              "DocumentMoniker": "E:\\MVC\\WebApplication1\\WebApplication1\\Models\\Employee.cs",
+              "DocumentMoniker": "D:\\GitHub\\MVC-App\\WebApplication1\\WebApplication1\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\Employee.cs",
-              "ToolTip": "E:\\MVC\\WebApplication1\\WebApplication1\\Models\\Employee.cs",
+              "ToolTip": "D:\\GitHub\\MVC-App\\WebApplication1\\WebApplication1\\Models\\Employee.cs",
               "RelativeToolTip": "WebApplication1\\Models\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wAkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T05:01:37.132Z",
               "EditorCaption": ""
