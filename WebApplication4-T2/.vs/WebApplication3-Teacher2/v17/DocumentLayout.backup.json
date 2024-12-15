@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\MVC-App\\WebApplication3-Teacher2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64E373D8-1B32-47A2-B3D1-B24B24083355}|WebApplication3-Teacher2\\WebApplication3-Teacher2.csproj|d:\\github\\mvc-app\\webapplication3-teacher2\\webapplication3-teacher2\\controllers\\tcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E373D8-1B32-47A2-B3D1-B24B24083355}|WebApplication3-Teacher2\\WebApplication3-Teacher2.csproj|solutionrelative:webapplication3-teacher2\\controllers\\tcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E373D8-1B32-47A2-B3D1-B24B24083355}|WebApplication3-Teacher2\\WebApplication3-Teacher2.csproj|D:\\GitHub\\MVC-App\\WebApplication3-Teacher2\\webapplication3-teacher2\\views\\t\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64E373D8-1B32-47A2-B3D1-B24B24083355}|WebApplication3-Teacher2\\WebApplication3-Teacher2.csproj|solutionrelative:webapplication3-teacher2\\views\\t\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E373D8-1B32-47A2-B3D1-B24B24083355}|WebApplication3-Teacher2\\WebApplication3-Teacher2.csproj|D:\\GitHub\\MVC-App\\WebApplication3-Teacher2\\webapplication3-teacher2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64E373D8-1B32-47A2-B3D1-B24B24083355}|WebApplication3-Teacher2\\WebApplication3-Teacher2.csproj|solutionrelative:webapplication3-teacher2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E373D8-1B32-47A2-B3D1-B24B24083355}|WebApplication3-Teacher2\\WebApplication3-Teacher2.csproj|D:\\GitHub\\MVC-App\\WebApplication3-Teacher2\\webapplication3-teacher2\\views\\t\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64E373D8-1B32-47A2-B3D1-B24B24083355}|WebApplication3-Teacher2\\WebApplication3-Teacher2.csproj|solutionrelative:webapplication3-teacher2\\views\\t\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E373D8-1B32-47A2-B3D1-B24B24083355}|WebApplication3-Teacher2\\WebApplication3-Teacher2.csproj|D:\\GitHub\\MVC-App\\WebApplication3-Teacher2\\webapplication3-teacher2\\views\\t\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64E373D8-1B32-47A2-B3D1-B24B24083355}|WebApplication3-Teacher2\\WebApplication3-Teacher2.csproj|solutionrelative:webapplication3-teacher2\\views\\t\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E373D8-1B32-47A2-B3D1-B24B24083355}|WebApplication3-Teacher2\\WebApplication3-Teacher2.csproj|D:\\GitHub\\MVC-App\\WebApplication3-Teacher2\\webapplication3-teacher2\\views\\t\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64E373D8-1B32-47A2-B3D1-B24B24083355}|WebApplication3-Teacher2\\WebApplication3-Teacher2.csproj|solutionrelative:webapplication3-teacher2\\views\\t\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E373D8-1B32-47A2-B3D1-B24B24083355}|WebApplication3-Teacher2\\WebApplication3-Teacher2.csproj|D:\\GitHub\\MVC-App\\WebApplication3-Teacher2\\webapplication3-teacher2\\context\\tcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E373D8-1B32-47A2-B3D1-B24B24083355}|WebApplication3-Teacher2\\WebApplication3-Teacher2.csproj|solutionrelative:webapplication3-teacher2\\context\\tcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E373D8-1B32-47A2-B3D1-B24B24083355}|WebApplication3-Teacher2\\WebApplication3-Teacher2.csproj|D:\\GitHub\\MVC-App\\WebApplication3-Teacher2\\webapplication3-teacher2\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E373D8-1B32-47A2-B3D1-B24B24083355}|WebApplication3-Teacher2\\WebApplication3-Teacher2.csproj|solutionrelative:webapplication3-teacher2\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\MVC-App\\WebApplication3-Teacher2\\WebApplication3-Teacher2\\Views\\T\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3-Teacher2\\Views\\T\\Details.cshtml",
+              "ToolTip": "D:\\GitHub\\MVC-App\\WebApplication3-Teacher2\\WebApplication3-Teacher2\\Views\\T\\Details.cshtml",
+              "RelativeToolTip": "WebApplication3-Teacher2\\Views\\T\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T07:13:43.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\MVC-App\\WebApplication3-Teacher2\\WebApplication3-Teacher2\\Views\\T\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3-Teacher2\\Views\\T\\Edit.cshtml",
+              "ToolTip": "D:\\GitHub\\MVC-App\\WebApplication3-Teacher2\\WebApplication3-Teacher2\\Views\\T\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication3-Teacher2\\Views\\T\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T07:11:11.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\MVC-App\\WebApplication3-Teacher2\\WebApplication3-Teacher2\\Views\\T\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3-Teacher2\\Views\\T\\Create.cshtml",
+              "ToolTip": "D:\\GitHub\\MVC-App\\WebApplication3-Teacher2\\WebApplication3-Teacher2\\Views\\T\\Create.cshtml",
+              "RelativeToolTip": "WebApplication3-Teacher2\\Views\\T\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T06:22:56.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\MVC-App\\WebApplication3-Teacher2\\WebApplication3-Teacher2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3-Teacher2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\GitHub\\MVC-App\\WebApplication3-Teacher2\\WebApplication3-Teacher2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication3-Teacher2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T06:08:30.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\MVC-App\\WebApplication3-Teacher2\\WebApplication3-Teacher2\\Views\\T\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3-Teacher2\\Views\\T\\Index.cshtml",
+              "ToolTip": "D:\\GitHub\\MVC-App\\WebApplication3-Teacher2\\WebApplication3-Teacher2\\Views\\T\\Index.cshtml",
+              "RelativeToolTip": "WebApplication3-Teacher2\\Views\\T\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T06:08:21.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TController.cs",
+              "DocumentMoniker": "D:\\GitHub\\MVC-App\\WebApplication3-Teacher2\\WebApplication3-Teacher2\\Controllers\\TController.cs",
+              "RelativeDocumentMoniker": "WebApplication3-Teacher2\\Controllers\\TController.cs",
+              "ToolTip": "D:\\GitHub\\MVC-App\\WebApplication3-Teacher2\\WebApplication3-Teacher2\\Controllers\\TController.cs",
+              "RelativeToolTip": "WebApplication3-Teacher2\\Controllers\\TController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:06:23.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TContext.cs",
+              "DocumentMoniker": "D:\\GitHub\\MVC-App\\WebApplication3-Teacher2\\WebApplication3-Teacher2\\Context\\TContext.cs",
+              "RelativeDocumentMoniker": "WebApplication3-Teacher2\\Context\\TContext.cs",
+              "ToolTip": "D:\\GitHub\\MVC-App\\WebApplication3-Teacher2\\WebApplication3-Teacher2\\Context\\TContext.cs",
+              "RelativeToolTip": "WebApplication3-Teacher2\\Context\\TContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:54:58.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\GitHub\\MVC-App\\WebApplication3-Teacher2\\WebApplication3-Teacher2\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "WebApplication3-Teacher2\\Models\\Teacher.cs",
+              "ToolTip": "D:\\GitHub\\MVC-App\\WebApplication3-Teacher2\\WebApplication3-Teacher2\\Models\\Teacher.cs",
+              "RelativeToolTip": "WebApplication3-Teacher2\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:51:29.625Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
