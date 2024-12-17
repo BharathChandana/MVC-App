@@ -1,0 +1,26 @@
+﻿@using WebApplicationExample_16_VM.Models
+@model Product
+@{
+    ViewBag.Title = "DisplayProduct";
+}
+
+<h2>DisplayProduct</h2>
+<table>
+    <tr>
+        <th>ProductId</th>
+        <td>@Model.ProductId</td>
+    </tr>
+    <tr>
+        <th>ProductName</th>
+        <td>@Model.ProductName</td>
+    </tr>
+    <tr>
+        <th>Quanytity</th>
+        <td>@Model.Quantity</td>
+    </tr>
+    <tr>
+        <th>Price</th>
+        <td>@Model.Price</td>
+    </tr>
+</table>
+

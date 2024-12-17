@@ -1,0 +1,24 @@
+﻿@using WebApplicationExample14.Models
+@{
+    ViewBag.Title = "DisplayProduct";
+}
+
+<h2>DisplayProduct</h2>
+<table>
+    <tr>
+        <th>ProductId</th>
+        <td>@Model.ProductId</td>
+    </tr>
+    <tr>
+        <th>Name</th>
+        <td>@Model.ProductName</td>
+    </tr>
+    <tr>
+        <th>Quantity</th>
+        <td>@Model.Quantity</td>
+    </tr>
+    <tr>
+        <th>Price</th>
+        <td>@Model.Price</td>
+    </tr>
+</table>

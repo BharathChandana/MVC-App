@@ -1,0 +1,45 @@
+﻿@using WebApplicationExample15.Models
+@model Product
+@{
+    ViewBag.Title = "EnterNewProduct";
+}
+
+<h2>Enter New Product</h2>
+@using(Html.BeginForm("SaveProduct","Product",FormMethod.Post))
+ {
+    <table>
+        <tr>
+            <th>Product Id</th>
+            <td>@Html.TextBoxFor(m=>m.ProductId)</td>
+            <td>@Html.ValidationMessageFor(m=>m.ProductId)</td>
+        </tr>
+        <tr>
+            <th>Name</th>
+            <td>@Html.TextBoxFor(m=>m.ProductName)</td>
+            <td>@Html.ValidationMessageFor(m=>m.ProductName)</td>
+        </tr>
+        <tr>
+            <th>Quantity</th>
+            <td>@Html.TextBoxFor(m=>m.Quantity)</td>
+            <td>@Html.ValidationMessageFor(m=>m.Quantity)</td>
+        </tr>
+        <tr>
+            <th>Price</th>
+            <td>@Html.TextBoxFor(m=>m.Price)</td>
+            <td>@Html.ValidationMessageFor(m=>m.Price)</td>
+        </tr>
+        <tr>
+            <td>
+                <input type="button"
+                       value="Clear"/>
+            </td>
+            <td>
+                <input type="submit"
+                       value="Add New Product"/>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">@Html.ValidationSummary()</td>
+        </tr>
+    </table>
+ }

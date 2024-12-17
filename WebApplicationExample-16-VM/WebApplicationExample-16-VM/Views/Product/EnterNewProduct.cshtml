@@ -1,0 +1,72 @@
+﻿@using WebApplicationExample_16_VM.Models
+@using WebApplicationExample_16_VM.VM
+@model ProductVM
+@{
+    ViewBag.Title = "EnterNewProduct";
+}
+
+<h2>EnterNewProduct</h2>
+@using (Html.BeginForm("SaveProduct", "Product", FormMethod.Post))
+{
+    <table>
+        <tr>
+            <th>ProductId</th>
+            <td>
+                @Html.TextBoxFor(m=>m.p.ProductId)
+            </td>
+        </tr>
+        <tr>
+            <th>ProductName</th>
+            <td>
+             @Html.TextBoxFor(m=>m.p.Name)
+            </td>
+        </tr>
+        <tr>
+            <th>Quantity</th>
+            <td>
+              @Html.TextBoxFor(m=>m.p.Quantity)
+            </td>
+        </tr>
+        <tr>
+            <th>Price</th>
+            <td>
+               @Html.TextBoxFor(m=>m.p.Price)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input type="reset"
+                       value="Clear"/>
+            </td>
+            <td>
+                <input type="submit"
+                       value="Add New Product"/>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                @Html.ValidationSummary()
+            </td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <th>ProductId</th>
+            <th>ProductName</th>
+            <th>Quantity</th>
+            <th>Price</th>
+        </tr>
+        @{ 
+            foreach(Product p in Model.products)
+                {
+                    <tr>
+                        <td>@p.ProductId</td>
+                        <td>@p.Name</td>
+                        <td>@p.Quantity</td>
+                        <td>@p.Price</td>
+                    </tr>
+                }
+        }
+    </table>
+}
+

@@ -1,0 +1,55 @@
+﻿
+@{
+    ViewBag.Title = "EnterNewProduct";
+}
+
+<h2>EnterNewProduct</h2>
+<form method="get" action="SaveProduct">
+    <table>
+        <tr>
+            <th>Product Id</th>
+            <td>
+                <input type="text"
+                       id="ProductId"
+                       name="ProductId"/>
+            </td>
+        </tr>
+        <tr>
+            <th>Name</th>
+            <td>
+                <input type="text"
+                       id="ProductName"
+                       name="ProductName"/>
+            </td>
+        </tr>
+        <tr>
+            <th>Quantity</th>
+            <td>
+                <select id="Quantity" name="Quantity">
+                    <option>1kg</option>
+                    <option>2kg</option>
+                    <option>3kg</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <th>Price</th>
+            <td>
+                <input type="text"
+                       id="Price"
+                       name="Price"/>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input type="button"
+                       value="Clear"/>
+            </td>
+            <td>
+                <input type="submit"
+                       value="Add New Product"/>
+            </td>
+        </tr>
+    </table>
+</form>
+
