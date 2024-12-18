@@ -1,0 +1,121 @@
+﻿@using WebApplicationExample17.Models
+@model Student
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+@{ 
+    int Total = Model.s1 + Model.s2 + Model.s3 + Model.s4 + Model.s5 + Model.s6;
+    string Result = "Fail";
+    if (Model.s1 >= 35&&Model.s2>=35&& Model.s3 >= 35 && Model.s4 >= 35 && Model.s5 >= 35 && Model.s6 >= 35 )
+    {
+        Result = "Pass";
+    }
+    string Grade = "F";
+    if (Result == "Pass")
+    {
+        int p = Total / 6;
+        if (p >= 90)
+        {
+            Grade = "A+";
+        }
+        else if (p >= 80)
+        {
+            Grade = "A";
+        }
+        else if (p >= 70)
+        {
+            Grade = "B";
+        }
+        else if (p >= 60)
+        {
+            Grade = "C";
+
+        }
+        else if (p >= 50)
+        {
+            Grade = "D";
+        }
+        else if (p >= 35)
+        {
+            Grade = "E";
+        }
+    }
+    int Average = Total / 6;
+
+}
+    <h2>Student Data</h2>
+    <table>
+        <tr>
+            <th>StudentId</th>
+            <td>@Model.StudentId</td>
+        </tr>
+        <tr>
+            <th>Name</th>
+            <td>@Model.Name</td>
+        </tr>
+        <tr>
+            <th>Standard</th>
+            <td>@Model.Standard</td>
+        </tr>
+        <tr>
+            <th>NameOfExam</th>
+            <td>@Model.NameOfExam</td>
+        </tr>
+        <tr>
+            <th>Telugu</th>
+            <td>@Model.s1</td>
+        </tr>
+        <tr>
+            <th>Hindi</th>
+            <td>@Model.s2</td>
+        </tr>
+        <tr>
+            <th>English</th>
+            <td>@Model.s3</td>
+        </tr>
+        <tr>
+            <th>Maths</th>
+            <td>@Model.s4</td>
+        </tr>
+        <tr>
+            <th>Science</th>
+            <td>@Model.s5</td>
+        </tr>
+        <tr>
+            <th>Social</th>
+            <td>@Model.s6</td>
+        </tr>
+        <tr>
+            <th>Total</th>
+            <td>@Total</td>
+        </tr>
+        @{ 
+            if(Result=="Pass")
+            {
+                <tr>
+                    <th>Result</th>
+                    <td style="background-color:green">@Result</td>
+                </tr>
+            }
+            else
+            {
+                <tr>
+                    <th>Result</th>
+                    <td style="background-color:red">@Result</td>
+                </tr>
+            }
+
+        }
+        <tr>
+            <th>Grade</th>
+            <td>@Grade</td>
+        </tr>
+        <tr>
+            <th>Average</th>
+            <td>@Average</td>
+        </tr>
+    </table>
+
+
