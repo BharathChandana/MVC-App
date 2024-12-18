@@ -1,0 +1,66 @@
+﻿@using WebApplicationExample18.VM
+@model StudentVM
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Student Data</h2>
+<table>
+    <tr>
+        <th>Student ID</th>
+        <td>@Model.student.StudentId</td>
+    </tr>
+    <tr>
+        <th>Student Name</th>
+        <td>@Model.student.StudentName</td>
+    </tr>
+    <tr>
+        <th>Name Of Exam</th>
+        <td>@Model.student.NameOfExam</td>
+    </tr>
+    <tr>
+        <th>Standard</th>
+        <td>@Model.student.Standard</td>
+    </tr>
+    <tr>
+        <th>Telugu</th>
+        <td>@Model.student.s1</td>
+    </tr>
+    <tr>
+        <th>Hindi</th>
+        <td>@Model.student.s2</td>
+    </tr>
+    <tr>
+        <th>English</th>
+        <td>@Model.student.s3</td>
+    </tr>
+    <tr>
+        <th>Maths</th>
+        <td>@Model.student.s4</td>
+    </tr> 
+    <tr>
+        <th>Science</th>
+        <td>@Model.student.s5</td>
+    </tr>
+    <tr>
+        <th>Social</th>
+        <td>@Model.student.s6</td>
+    </tr>
+    <tr>
+        <th>Total</th>
+        <td>@Model.Total</td>
+    </tr>
+    <tr>
+        <th>Result</th>
+        <td style="background-color:@Model.Colorname">@Model.Result</td>
+    </tr>
+    <tr>
+        <th>Grade</th>
+        <td style="background-color:@Model.Color">@Model.Grade</td>
+    </tr>
+    <tr>
+        <th>Average</th>
+        <td>@Model.Average</td>
+    </tr>
+</table>
+
